@@ -6,6 +6,7 @@ LinkedIn Profile Scrapper in Python
 
 In this lesson, I will show you how you can scrap the full LinkedIn profile using selenium and beautifulsoup4 in python. 
 
+YouTube Video: [https://youtu.be/SQtwhuYJk3M](https://youtu.be/SQtwhuYJk3M)
 
 # ML Resources
 |  ML Course | Description |
