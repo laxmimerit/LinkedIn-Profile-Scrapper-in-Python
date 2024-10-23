@@ -1,0 +1,229 @@
+{
+    "name": "Laxmi Kant",
+    "url": "https://www.linkedin.com/in/laxmimerit",
+    "headline": "Gen AI in Finance & Investment Services | Data Scientist | IIT Kharagpur | Asset Management | AI-Driven Financial Modeling | Search Ranking | NLP Python BERT AWS Elasticsearch GNN SQL LLM | AI in Investment Strategies",
+    "about": "Demonstrated 8+ years of expertise in advanced analytics as an AVP in Data Science, showcasing dynamic and impactful contributions. Seeking to leverage expertise in customer behavior modeling, personalized marketing, product discovery & search optimization, and recommendations to drive impactful solutions in the fields of Data Science, Machine Learning, and Artificial Intelligence.\ud83d\udc49 Significant Achievements Across Career\u25aa Strategically led impactful initiatives in Customer Behavior Modeling, resulting in a substantial 30% increase in customer retention and a 10% reduction in advertising spending.\u25aa Pioneered the development and implementation of a Machine Learning product relevance ranking system, contributing to a remarkable 30% increase in conversion rates and a 20% growth in revenue.\u25aa Applied innovative techniques, including Social Graph Analytics and Predictive  Modeling, achieving a 35% improvement in recommendation conversion rates and a 40% increase in customer care calling conversion rates.\u25aa Revolutionized customer segmentation and ranking, realizing a notable 20% improvement in conversion rates.\u25aa Engineered predictive models for email open rates, driving a remarkable 70% improvement in email engagement.\u25aa Achieved transformative outcomes, including a substantial 50% improvement in search conversion rates, a notable 60% increase in revenue, and an impressive 90% reduction in zero-result queries.\u25aa A strategic driver of user satisfaction and engagement, evidenced by a commendable 10% decrease in exit rates.Demonstrated 8+ years of expertise in advanced analytics as an AVP in Data Science, showcasing dynamic and impactful contributions. Seeking to leverage expertise in customer behavior modeling, personalized marketing, product discovery & search optimization, and recommendations to drive impactful solutions in the fields of Data Science, Machine Learning, and Artificial Intelligence.\n\n\ud83d\udc49 Significant Achievements Across Career\n\u25aa Strategically led impactful initiatives in Customer Behavior Modeling, resulting in a substantial 30% increase in customer retention and a 10% reduction in advertising spending.\n\n\u25aa Pioneered the development and implementation of a Machine Learning product relevance ranking system, contributing to a remarkable 30% increase in conversion rates and a 20% growth in revenue.\n\n\u25aa Applied innovative techniques, including Social Graph Analytics and Predictive  Modeling, achieving a 35% improvement in recommendation conversion rates and a 40% increase in customer care calling conversion rates.\n\n\u25aa Revolutionized customer segmentation and ranking, realizing a notable 20% improvement in conversion rates.\n\n\u25aa Engineered predictive models for email open rates, driving a remarkable 70% improvement in email engagement.\n\n\u25aa Achieved transformative outcomes, including a substantial 50% improvement in search conversion rates, a notable 60% increase in revenue, and an impressive 90% reduction in zero-result queries.\n\n\u25aa A strategic driver of user satisfaction and engagement, evidenced by a commendable 10% decrease in exit rates.",
+    "experience": [
+        {
+            "company_name": "IGP",
+            "duration": "Full-time \u00b7 4 yrs 10 mos",
+            "designations": [
+                {
+                    "designation": "Assistant Vice President",
+                    "duration": "Oct 2023 to Sep 2024 \u00b7 1 yr",
+                    "location": "Mumbai, Maharashtra, India",
+                    "projects": "\ud83d\udc49Customer Behavior Modeling:\nEstimating Customer Lifetime Value (CLV) predicts customer worth, churn forecasts retention, and purchase propensity gauges transaction counts and spending. Tier transition analysis influences segmentation, retention, and personalized marketing, enhancing satisfaction, loyalty, and revenue.\n\n\ud83d\udc49Hashtag Search:\nEnhancing search functionality by integrating product attributes into phrases for a more intuitive and efficient product discovery process.\n\n\ud83d\udc49Automated Customer Feedback Report:\nUtilizing fine-tuning of a Large Language Model to generate diverse supervised data, addressing imbalances in actual data for improved analysis and data-driven decision-making in customer satisfaction and issue resolution.\n\n\ud83d\udc49Meta Tag Generator for PLP, PDP, and Query Pages:\nThe \"Meta Tag Generator\" project automates meta tag creation for PLP, PDP, and Query Pages, optimizing search engine visibility and attracting targeted traffic to the website."
+                },
+                {
+                    "designation": "Associate Vice President",
+                    "duration": "Apr 2021 to Oct 2023 \u00b7 2 yrs 7 mos",
+                    "location": "Mumbai, Maharashtra, India \u00b7 On-site",
+                    "projects": "\ud83d\udc49Personalized Search:\nEngineered dynamic product ranking tailored to individual users, optimizing the search experience based on user preferences.\n\n\ud83d\udc49Graph and Big Data Analysis:\nDesigned and implemented graph and big-data analysis tools to extract valuable insights, contributing to strategic decision-making.\n\n\ud83d\udc49Implicit Customer Features Identification:\nUtilized demographic data, including religion, native region, and gender, to drive targeted marketing, resulting in personalized recommendations and search suggestions aligned with individual preferences.\n\n\ud83d\udc49Social Graph Analytics for Personalized Search and Recommendation:\nAnalyzed user social graphs and click journeys to develop sophisticated recommendation systems, providing personalized suggestions based on user behavior and connections.\n\n\ud83d\udc49Customer Segmentation and Ranking:\nImplemented techniques to segment customers based on diverse attributes and ranked them according to relevance and potential value, enhancing the personalization of product rankings.\n\n\ud83d\udc49Image Segmentation and Phrase Generation:\nApplied image segmentation techniques to enrich e-commerce product attributes and utilized phrase generation to create descriptive and informative content.\n\n\ud83d\udc49Customer Purchase Intention and Cart Value Prediction:\nDeveloped models for predicting customer purchase intentions and cart values, contributing to optimized marketing strategies and an improved shopping experience.\n\n\ud83d\udc49User Category and MRP Affinity:\nExplored user categories and their affinity towards specific products or price ranges, leveraging insights to enhance personalized recommendations and targeted marketing efforts.\n\n\ud83d\udc49Social Graph-Based Occasion Marking and Relation Prediction:\nLeveraged the social graph to identify occasions and predict user relationships, facilitating personalized recommendations aligned with specific events or social connections."
+                },
+                {
+                    "designation": "Data Science Manager",
+                    "duration": "Dec 2019 to Apr 2021 \u00b7 1 yr 5 mos",
+                    "location": "Bengaluru, Karnataka, India",
+                    "projects": "Extraction of Syntactic and Semantic search queries. Machine learning models for query correction, product search, product ranking, user profiling, and revenue impact. Architecture for data flow, annotation, modeling, and deployment flow.\n\n\ud83d\udc49Marketing Email Subject Line Open Rate Predictor:\nDeveloped a predictive model to forecast open rates for marketing email subject lines, empowering the formulation of effective email campaign strategies and elevating customer engagement.\n\n\ud83d\udc49Extraction of Syntactic and Semantic Search Queries:\nImplemented machine learning models for the extraction of syntactic and semantic search queries, covering query correction, product search, product ranking, user profiling, and assessing revenue impact. Established an architecture for seamless data flow, annotation, modeling, and deployment.\n\n\ud83d\udc49AI-Powered Search at IGP.COM:\n- Implemented dynamic query suggestions and advanced 'BERT' Transformers algorithms for precise searches.\n- Enabled real-time syntactic and semantic analysis with adaptive typo tolerance and Hinglish spelling correction.\n- Applied AI-driven demographic filtering and intelligent synonym selection.\n- Achieved a 20% improvement in search conversion, a 25% enhancement in revenue generated by search, a 90% reduction in zero-result queries, and a 10% decrease in exit rates.\n\n\ud83d\udc49Graph-Powered Products Recommendation in Real-time:\nIntroduced features such as \"People like you also buy,\" \"Frequently bought together,\" \"After viewing this, people bought,\" and \"Products based on your shopping trends\" for real-time, graph-powered product recommendations."
+                }
+            ]
+        },
+        {
+            "company_name": "mBreath",
+            "duration": "3 yrs 4 mos",
+            "designations": [
+                {
+                    "designation": "Co-Founder",
+                    "duration": "Aug 2016 to Nov 2019 \u00b7 3 yrs 4 mos",
+                    "location": "STEP, IIT Kharagpur",
+                    "projects": "There are some of the project which I did at mBreath.\nReal-Time Human Vital Parameter Estimation Using Pressure Sensor and Machine Learning\nMeasured respiration and heart rate through an array of pressure sensors and Deep Learning (CNN, RNN-LSTM) algorithms. [Filed Patent Ref No. 201731038573]. 96% accuracy was achieved. The project had three stages 1) preprocessing with analog filters, 2) Digital Signal Processing, 3) Machine Learning model thereafter data is uploaded to the cloud for further processing.\n\nReal-time Classification of Environmental Sounds & Their Impacts on Sleep Quality\nCollected audio using a microphone and Qualcomm\u2019s Snapdragon processor enabled custom-built board running Android 6.0. Audio Cleaning, Feature Extraction (more than 700 features) in Temporal, Spectral, Energy, Harmonic, and Cepstral domain, Feature Selection for faster training and better accuracy and ML models (CNN, LSTM, RF, SVM) are designed to classify snoring and other sound and their impact on sleep quality.\n\nA Real-Time System and Methods for the Detection of Sleep Apnea and Sleep Stage\nUsed CNN, Inception, LSTM, CNN-LSTM models to estimate Sleep Apnea and Sleep Stages using the respiration signal only. The training data was obtained from MESA, National Sleep Research Resource, USA. I did data cleaning and balancing thereafter feature engineering and selection were done before applying the ML model. Achieved 82.7% accuracy in Sleep Apnea which is higher than any known methods applied on respiration signal in MESA Dataset and achieved more than 80% accuracy in sleep stage classification which can be considered as good accuracy.\n\nVisit:\nhttp://www.sleepdoc.ai\nhttp://www.facebook.com/mBreathOfficial\nhttp://www.twitter.com/mBreathOfficial"
+                },
+                {
+                    "designation": "Data Scientist",
+                    "duration": "Aug 2016 to Nov 2019 \u00b7 3 yrs 4 mos",
+                    "location": "Bangalore",
+                    "projects": "Developed two end-to-end products \"Smart Wireless System and Method for Human Health Monitoring Using Doppler Radar\u201c [Filed Patent Ref. No. 201731038573]  and \"Smart Sleep Sense System For Human Health Monitoring And Screening Using Velostat Pressure Sensor\" [Filed Patent Ref. 01731041913 ]\n\nWorked on multiple fronts including Business Model Development, Customer Acquisition, Market Analysis, Product Feasibility Analysis, and Customer Segmentation and Satisfaction analysis while working as Data Scientist\n\nStudied Socio and Economic Impact of healthcare and Sleep Disorder in the US market \nDid cost optimization while designing the product SleepDoc by keeping time-to-market in mind\n\nHaving experience in working with GitHub and Bitbucket for code management.\n\nUsed Deep Learning (CNN, LSTM, CNN-LSTM, Inception, VGGs), Machine Learning models (Logistic Regression, Random Forest, SVM, and XGBoost), and Feature Selection for real-time audio analysis and classification, sleep apnea detection, sleep stage detection, snoring detection.\n\nDeveloped SleepDoc, SleepDoc uses the FMCW RADAR system to measure respiration and heart rate. Designed Android Application and state-of-the-art ML Algorithms (SVM, RF, CNN, LSTM, CNN-LSTM, Inception) to measure vital parameters. [Filed Patent Ref No. 201731038573]. The 99% accuracy was achieved in Respiration and Heart Rate measurement with 30-sec epochs. Deep learning models were trained on the Google Cloud Platform (GCP) with Tensorflow-GPU.\n\nSuccessfully achieved kernel changes into Android OS to read data on Qualcomm\u2019s Snapdragon processor using SPI, I2C, and UART. Interfaced Java and custom module coded in C-Language in Android 6.0.\n\nDesigned my own email marketing software for the marketing of SleepDoc. Used AWS Boto3 Python, AWS SES, SNS, SQS, AWS Lambda, DynamoDB, and PyQt5. Written code for automatic email and phone number extractor crawler."
+                }
+            ]
+        },
+        {
+            "company_name": "Indian Institute of Technology, Kharagpur",
+            "duration": "4 yrs 8 mos",
+            "designations": [
+                {
+                    "designation": "Student",
+                    "duration": "Jul 2012 to Feb 2017 \u00b7 4 yrs 8 mos",
+                    "location": "Kharagpur, India",
+                    "projects": ""
+                },
+                {
+                    "designation": "Teacher Assistant",
+                    "duration": "Jan 2013 to Jan 2017 \u00b7 4 yrs 1 mo",
+                    "location": "IIT Kharagpur",
+                    "projects": "It was a great experience to teach Embedded Systems. The objective of the teaching is the implementation of the adaptive filter on embedded hardware and software.\nImplementation of the DSP algorithms was done in Assembly language. Students get comprehensive knowledge of Embedded System and IoT."
+                },
+                {
+                    "designation": "M.Tech",
+                    "duration": "Jul 2012 to Jun 2014 \u00b7 2 yrs",
+                    "location": "IIT Kharagpur",
+                    "projects": ""
+                }
+            ]
+        }
+    ],
+    "education": [
+        {
+            "school_college": "Indian Institute of Technology, Kharagpur",
+            "degree": "Senior Research Scholar, Computer Science",
+            "duration": "2014 - 2016",
+            "project": "Designed two systems and methods for wireless respiration and heart rate monitoring. Patents are filed for both systems.\n\nSignal processing algorithms are developed to estimated respiration and heart rate accurately.\n\nMachine learning algorithms and Android application designed to detect Sleep Apnea, Snoring, and Stages of Sleep. Data was also uploaded to the cloud."
+        },
+        {
+            "school_college": "Indian Institute of Technology, Kharagpur",
+            "degree": "Master of Technology (M.Tech.), Computer Science",
+            "duration": "2012 - 2014",
+            "project": "Real-Time Kalman Filter is implemented in C language\n\nStudied Designing of Algorithms and Analysis, Data Structure, Machine Learning, Computer Architecture, Java, C, Embedded System and Implemented 5-stage pipelined RISC processor in Verilog as term project. \n\nTaught embedded system and IoT to UG students at IIT Kharagpur as TA"
+        }
+    ],
+    "licenses_and_certifications": [
+        {
+            "title": "Product Analytics Micro Certificate",
+            "institute": "Product School",
+            "issued on": "Issued Jan 2024"
+        },
+        {
+            "title": "Accenture Innovation Award",
+            "institute": "Accenture",
+            "issued on": "Issued Nov 2017"
+        },
+        {
+            "title": "Top 50 Innovative Startup of India, India Innovation Growth Programme",
+            "institute": "Government of India",
+            "issued on": "Issued Jun 2017"
+        },
+        {
+            "title": "Top 30 Technical Innovative Startup of India, IICDC 2016",
+            "institute": "Texas Instruments",
+            "issued on": "Issued May 2017"
+        },
+        {
+            "title": "Best Startup at IIT Kharagpur 2016-17",
+            "institute": "IIT Kharagpur",
+            "issued on": "Issued Feb 2017"
+        },
+        {
+            "title": "Winner of the International Business Model Competition, Eureka 2016",
+            "institute": "IIT Mumbai",
+            "issued on": "Issued Jan 2017"
+        }
+    ],
+    "projects": [
+        {
+            "project_title": "Smart Sleep Sense: An Unobtrusive and IoT Enabled Wireless Sleep Monitoring System",
+            "duration": "May 2015 - Present",
+            "details": "The project aims at developing a portable Human monitoring device that detects the health parameters (heart pulse, breathing rate, thermal emotion recognition, awakening at REM stage of the sleep) and communicates the signals obtained from sensors to the Android app via Wireless network. The information is used to convey Smart Assistance to the user for their daily improved health care conditions thus improving their efficiency and longevity. We are offering sleep disorder monitoring devices. In addition to this, our business model is B2C and device will be directly available to the customer for purchase via online e-commerce stores as well as company e-store itself and the expected cost will be in between 110 to 149 dollar."
+        },
+        {
+            "project_title": "Optimized Fixed Point Kalman Filter Implementation on Embedded Hardware",
+            "duration": "Aug 2013 - Apr 2014",
+            "details": "Real time adaptive signal processing is an area of considerable interest for the researchers in the field of embedded signal processing. Owing to the large dynamic range and constant relative accuracy of floating point arithmetic, filters are traditionally realized in floating point data type. However, using floating point arithmetic in embedded systems lead to larger cost in terms of latency, power and memory. Therefore these algorithms need to be implemented in fixed point for optimizing these constraints. However with the reduction in the word length the precision get affected. Therefore these algorithms need to be coded properly with adequate fixed point format such that precision is not affected while the resources are optimized. In this thesis an attempt has been made to implement Least Mean Square (LMS), Recursive Least Square (RLS) and Kalman Filtering algorithms on ARM Cortex M0+ with Thumb instruction set. The word length has been optimized for accurate performance, reduced power, improved speed and reduced memory usage. The validation of the algorithm has been carried out with respect to MATLAB."
+        },
+        {
+            "project_title": "MIPS64 5-stages Processor Designing",
+            "duration": "Jan 2013 - May 2013",
+            "details": "The machine was designed with the MIPS instruction set in mind. Its purpose was to be able to take  a  binary  representation  of  a  MIPS  instruction  and  convert  it  into  microcode.    The microcode controls the actions of the processor and pipeline. Pipelining is a process of multitasking instructions in the same data path.  An instruction can be loaded into the data path at every clock cycle, even though each instruction takes up to 5 cycles to complete.  At every clock cycle, each instruction is stored into a different stage in the pipeline. Doing this does not affect any of the other instructions in the processor because they are in different stages. Each stage  contains  a  different  part  of  the  data  path  and  has  a specific function. This allows the user of the processor to fully utilize all components of the data path simultaneously, causing an increase in the throughput of their program."
+        },
+        {
+            "project_title": "Transistor Characteristics Curve Tracer",
+            "duration": "Feb 2012 - May 2013",
+            "details": "A cost effective and reliable curve tracer has been designed and developed for NPN- PNP transistors using AT89C51 microcontroller. The system plots desired number of transfer and static characteristics curves on a given range of constant biasing parameter viz; VCE and IB resp. The system plots these characteristics curves of the given transistor on the available computer system through the developed software on Visual BASIC 6.0.  h-parameters of the transistor have also been obtained for different design requirement. All the data has also been stored in a user defined output file for further analysis."
+        },
+        {
+            "project_title": "Automated BJT Curve Tracer using Visual Basic",
+            "duration": "Jan 2012 - May 2012",
+            "details": "The characteristic of any discrete component plays an important role for determining its behavior for different applications. In this paper we have developed a cost effective BJT curve tracer and binning system which consist of hardware part that is implemented using 89c51 microcontroller and software part which is developed in Microsoft Visual Basic 6.0. This complete system plots the input characteristics curves, h-parameters of the given transistor along with other parameters i.e. C-E resistance and early voltage. Binning machine is used to find the working mode of BJT and to find whether the BJT is working or not by using the port given on the hardware. All the data can also be stored in a user defined output file in the computer for further analysis. This tracer and binning machine can be used for educational and engineering purposes."
+        }
+    ],
+    "courses": [
+        {
+            "course_title": "Advanced Computer Architecture",
+            "associated_with": "Associated with Indian Institute of Technology, Kharagpur"
+        },
+        {
+            "course_title": "Algorithm Design and Analysis",
+            "associated_with": "Associated with Indian Institute of Technology, Kharagpur"
+        },
+        {
+            "course_title": "Android Sensors Programming",
+            "associated_with": ""
+        },
+        {
+            "course_title": "Computational Methods and Algorithm for Signal Processing",
+            "associated_with": "Associated with Indian Institute of Technology, Kharagpur"
+        },
+        {
+            "course_title": "Data Structure",
+            "associated_with": "Associated with Indian Institute of Technology, Kharagpur"
+        },
+        {
+            "course_title": "Deep Learning with TensorFlow 2.0 and Keras",
+            "associated_with": ""
+        },
+        {
+            "course_title": "Digital Signal Processing",
+            "associated_with": "Associated with Indian Institute of Technology, Kharagpur"
+        },
+        {
+            "course_title": "Embedded System",
+            "associated_with": "Associated with Indian Institute of Technology, Kharagpur"
+        },
+        {
+            "course_title": "Embedded System Design and Validation",
+            "associated_with": "Associated with Indian Institute of Technology, Kharagpur"
+        },
+        {
+            "course_title": "Feature Selection in Machine Learning",
+            "associated_with": ""
+        },
+        {
+            "course_title": "Internet of Things (IoT)",
+            "associated_with": "Associated with IIT Kharagpur"
+        },
+        {
+            "course_title": "Low Power System Design",
+            "associated_with": "Associated with Indian Institute of Technology, Kharagpur"
+        },
+        {
+            "course_title": "Machine Learning for Healthcare",
+            "associated_with": ""
+        },
+        {
+            "course_title": "Natural Language Processing with SpaCy",
+            "associated_with": ""
+        },
+        {
+            "course_title": "Programmable Embedded System",
+            "associated_with": "Associated with Indian Institute of Technology, Kharagpur"
+        },
+        {
+            "course_title": "Python for Beginners",
+            "associated_with": ""
+        },
+        {
+            "course_title": "Signal Processing with MATLAB",
+            "associated_with": ""
+        },
+        {
+            "course_title": "Smart Phone and Cloud Computation",
+            "associated_with": "Associated with Indian Institute of Technology, Kharagpur"
+        }
+    ],
+    "honors_awards": [
+        "Best Startup at IIT Kharagpur 2016-17",
+        "Runner-Up 24H Entrepreneurship Challenge, 2017, IISER, Pune",
+        "Runner-Up Texas Instrument Innovation Challenge 2016-17",
+        "Top 50 Innovators Award at India IIGP 2.0 Boot Camp, IIM Ahmedabad",
+        "Winner Accenture Innovation Challenge 2017",
+        "Winner Of International Business Model Competition, Eureka 2016"
+    ]
+}
