@@ -1,0 +1,6 @@
+langchain-community
+tiktoken
+langchain-ollama
+python-dotenv
+selenium
+beautifulsoup4
